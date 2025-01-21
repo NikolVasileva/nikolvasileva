@@ -4,7 +4,7 @@
 💻 I’m currently learning JavaScript at SoftUni and have completed a course in HTML and CSS.<br>
 🚀 I love exploring the world of web development and building projects that bring ideas to life.<br>
 🌟 Feel free to check out my repositories to see what I’m working on!<br>
-💼 Connect with me on <a href="https://bit.ly/3PKp8Kw">LinkedIn</a>
+💼 Connect with me on <a href="https://2ly.link/23Pyp">LinkedIn</a>
 
 <!--
 **NikolVasileva/nikolvasileva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
